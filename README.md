@@ -9,6 +9,10 @@ This README is broken down into the following sections:
 
 ![Package search image](readme_images/package-search.png)
 
+## Demo page
+
+http://packagehunt.swiftype.info
+
 ## Setup
 
 To get started, simply clone this repository and run `npm` to install dependencies. We will go over some basic configuration steps, but if you are coming from the tutorial you can skip to [State Management](#state).
